@@ -1,0 +1,28 @@
+return {
+    [1] = {
+        ["Magma Ore"] = { "Military Soldier", "Military Spy" },
+        ["Leather"] = { "Brute" },
+        ["Scrap Metal"] = { "Brute" },
+        ["Angel Wings"] = { "God's Guard" },
+        ["Fish Tail"] = { "Fishman Warrior", "Fishman Commando" },
+        ["GunPowder"] = { "Brute", "Pirate" }
+    },
+    [2] = {
+        ["Magma Ore"] = { "Magma Ninja" },
+        ["Scrap Metal"] = { "Swan Pirate" },
+        ["Radioactive Material"] = { "Factory Staff" },
+        ["Vampire Fang"] = { "Vampire" },
+        ["Mystic Droplet"] = { "Water Fighter", "Sea Soldier" },
+        ["Ectoplasm"] = { "Ship Steward", "Ship Officer", "Ship Engineer", "Ship Deckhand" }
+    },
+    [3] = {
+        ["Mini Tusk"] = { "Mythological Pirate" },
+        ["Fish Tail"] = { "Fishman Raider", "Fishman Captain" },
+        ["Scrap Metal"] = { "Jungle Pirate" },
+        ["Dragon Scale"] = { "Dragon Crew Archer", "Dragon Crew Warrior" },
+        ["Conjured Cocoa"] = { "Cocoa Warrior", "Chocolate Bar Battler", "Sweet Thief", "Candy Rebel" },
+        ["Demonic Wisp"] = { "Demonic Soul" },
+        ["Gunpowder"] = { "Pistol Billionaire" }
+    },
+    [4] = {}
+}
